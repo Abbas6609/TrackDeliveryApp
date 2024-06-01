@@ -2,7 +2,7 @@ Happy introduce the Smart Shipment Tracker, a sophisticated tool engineered to t
 
 📦 Key Features of the Smart Shipment Tracker:
 
-Automated Shipment Tracking: Leverages a robust Python backend to automate the retrieval of shipment statuses from external APIs.
+**Automated Shipment Tracking:** Leverages a robust Python backend to automate the retrieval of shipment statuses from external APIs.
 Real-Time Delivery Status: Provides instant updates on the delivery status of shipments, ensuring users are always informed.
 Bulk Data Handling: Allows users to upload shipment data via Google Sheets, Excel, CSV, or JSON files, making it easy to manage large datasets.
 🛠️ Technologies Used:
