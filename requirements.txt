@@ -1,0 +1,7 @@
+streamlit
+gspread
+oauth2client
+requests
+pandas
+python-dotenv
+openpyxl
