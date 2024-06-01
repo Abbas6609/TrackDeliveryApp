@@ -18,7 +18,7 @@ Happy introduce the Smart **Shipment Tracker**, a sophisticated tool engineered 
 
 This project not only boosts efficiency in tracking but also enhances transparency in delivery processes. It's perfect for businesses looking to streamline their logistics operations with technology.
 
-👀 Explore the **screenshots** below to see the Smart Shipment Tracker in action and visit the GitHub link for more details or to try it out yourself.
+👀 Explore the **screenshots** below to see the Smart Shipment Tracker in action.
 
 
 
